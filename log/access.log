@@ -1,0 +1,43 @@
+{"level":"info","message":{"body":{"email":"test6@TEST.com","password":"s"},"ip":"::1","method":"POST","route":"/api/register","timestamp":"2023-07-21T18:15:15.357Z"}}
+{"level":"info","message":{"body":{"message":"bonjour docteur j'ai mal au ventre depuis trois jours comme des crampes d'estomac et j'ai des migraines que puis je faire pour atténuer ça"},"ip":"::ffff:92.148.9.92","method":"POST","route":"/api/chat","timestamp":"2023-07-21T18:15:45.712Z"}}
+{"level":"info","message":{"body":{"message":"mon bébé fait de la température et pleure beaucoup et il se touche beaucoup l'oreille et la tête, ça peut être quoi ?"},"ip":"::ffff:92.148.9.92","method":"POST","route":"/api/chat","timestamp":"2023-07-21T18:51:43.962Z"}}
+{"level":"info","message":{"ip":"::ffff:92.148.9.92","method":"GET","route":"/api/me","timestamp":"2023-07-21T20:24:39.212Z"}}
+{"level":"info","message":{"ip":"::ffff:92.148.9.92","method":"GET","route":"/api/me","timestamp":"2023-07-21T20:24:53.479Z"}}
+{"level":"info","message":{"ip":"::ffff:92.148.9.92","method":"GET","route":"/api/me","timestamp":"2023-07-21T20:32:45.339Z"}}
+{"level":"info","message":{"body":{"email":"test@example.com","password":"testpassword"},"ip":"::1","method":"POST","route":"/api/register","timestamp":"2023-07-21T20:47:39.803Z"}}
+{"level":"info","message":{"body":{"email":"test@example.com","password":"testpassword"},"ip":"::1","method":"POST","route":"/api/register","timestamp":"2023-07-21T20:49:08.558Z"}}
+{"level":"info","message":{"body":{"email":"test@example1.com","password":"testpassword"},"ip":"::1","method":"POST","route":"/api/register","timestamp":"2023-07-21T20:49:13.582Z"}}
+{"level":"info","message":{"body":{"email":"test@example1.com","password":"testpassword"},"ip":"::1","method":"POST","route":"/api/register","timestamp":"2023-07-21T20:50:09.866Z"}}
+{"level":"info","message":{"body":{"email":"test@example2.com","password":"testpassword"},"ip":"::1","method":"POST","route":"/api/register","timestamp":"2023-07-21T20:50:13.951Z"}}
+{"level":"info","message":{"body":{"email":"test@example3.com","password":"testpassword"},"ip":"::1","method":"POST","route":"/api/register","timestamp":"2023-07-21T20:52:21.989Z"}}
+{"level":"info","message":{"body":{"email":"test@example3.com","password":"testpassword"},"ip":"::1","method":"POST","route":"/api/register","timestamp":"2023-07-21T20:58:20.743Z"}}
+{"level":"info","message":{"body":{"email":"test@example4.com","password":"testpassword"},"ip":"::1","method":"POST","route":"/api/register","timestamp":"2023-07-21T20:58:24.765Z"}}
+{"level":"info","message":{"body":{"email":"test@example5.com","password":"testpassword"},"ip":"::1","method":"POST","route":"/api/register","timestamp":"2023-07-21T21:00:38.078Z"}}
+{"level":"info","message":{"body":{"email":"test@example6.com","password":"testpassword"},"ip":"::1","method":"POST","route":"/api/register","timestamp":"2023-07-21T21:01:59.839Z"}}
+{"level":"info","message":{"body":{"email":"test@example6.com","password":"testpassword"},"ip":"::1","method":"POST","route":"/api/register","timestamp":"2023-07-21T21:04:58.108Z"}}
+{"level":"info","message":{"body":{"email":"test@examplee6.com","password":"testpassword"},"ip":"::1","method":"POST","route":"/api/register","timestamp":"2023-07-21T21:05:02.024Z"}}
+{"level":"info","message":{"body":{"email":"test@examplee6.com","password":"testpassword"},"ip":"::1","method":"POST","route":"/api/login","timestamp":"2023-07-21T21:06:15.025Z"}}
+{"level":"info","message":{"ip":"::1","method":"GET","route":"/api/refresh","timestamp":"2023-07-21T21:06:51.415Z"}}
+{"level":"info","message":{"body":{"refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjQsImlhdCI6MTY4OTk3MzU3NX0.IJeVcnL2w7cKCGv4QnjMWb9YTywEPluAilc-M2uxgEQ"},"ip":"::1","method":"POST","route":"/api/refresh","timestamp":"2023-07-21T21:07:25.656Z"}}
+{"level":"info","message":{"body":{"refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjQsImlhdCI6MTY4OTk3MzU3NX0.IJeVcnL2w7cKCGv4QnjMWb9YTywEPluAilc-M2uxgEQ"},"ip":"::1","method":"POST","route":"/api/refresh","timestamp":"2023-07-21T21:10:07.104Z"}}
+{"level":"info","message":{"body":{"refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjQsImlhdCI6MTY4OTk3MzU3NX0.IJeVcnL2w7cKCGv4QnjMWb9YTywEPluAilc-M2uxgEQ"},"ip":"::1","method":"POST","route":"/api/refresh","timestamp":"2023-07-21T21:10:36.499Z"}}
+{"level":"info","message":{"body":{"refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjQsImlhdCI6MTY4OTk3MzU3NX0.IJeVcnL2w7cKCGv4QnjMWb9YTywEPluAilc-M2uxgEQ"},"ip":"::1","method":"POST","route":"/api/refresh","timestamp":"2023-07-21T21:10:45.321Z"}}
+{"level":"info","message":{"body":{"email":"test@examplee6.com","password":"testpassword"},"ip":"::1","method":"POST","route":"/api/login","timestamp":"2023-07-21T21:13:33.725Z"}}
+{"level":"info","message":{"body":{"refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjQsImlhdCI6MTY4OTk3NDAxM30.c_gip-VjLbGoMQAt99s8GLrJ7Ch4OD82QNGcLxU9BZs"},"ip":"::1","method":"POST","route":"/api/refresh","timestamp":"2023-07-21T21:13:48.883Z"}}
+{"level":"info","message":{"body":{"refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjQsImlhdCI6MTY4OTk3NDAxM30.c_gip-VjLbGoMQAt99s8GLrJ7Ch4OD82QNGcLxU9BZs"},"ip":"::1","method":"POST","route":"/api/me","timestamp":"2023-07-21T21:23:58.646Z"}}
+{"level":"info","message":{"ip":"::1","method":"GET","route":"/api/me","timestamp":"2023-07-21T21:24:03.550Z"}}
+{"level":"info","message":{"ip":"::1","method":"GET","route":"/api/me","timestamp":"2023-07-21T21:26:02.910Z"}}
+{"level":"info","message":{"body":{"email":"john.doe@example.com","password":"securepassword123"},"ip":"::1","method":"POST","route":"/api/login","timestamp":"2023-07-21T21:28:13.279Z"}}
+{"level":"info","message":{"body":{"email":"john.doe@example.com","password":"password"},"ip":"::1","method":"POST","route":"/api/login","timestamp":"2023-07-21T21:28:22.861Z"}}
+{"level":"info","message":{"body":{"email":"john.doe@example.com","password":"securepassword"},"ip":"::1","method":"POST","route":"/api/login","timestamp":"2023-07-21T21:28:31.302Z"}}
+{"level":"info","message":{"ip":"::1","method":"GET","route":"/api/me","timestamp":"2023-07-21T21:29:07.287Z"}}
+{"level":"info","message":{"body":{"email":"test@test.com","password":"securepassword"},"ip":"::1","method":"POST","route":"/api/login","timestamp":"2023-07-21T21:29:42.946Z"}}
+{"level":"info","message":{"body":{"email":"test@test.com","password":"securepassword123"},"ip":"::1","method":"POST","route":"/api/login","timestamp":"2023-07-21T21:29:47.201Z"}}
+{"level":"info","message":{"body":{"age":37,"alcohol":true,"dateOfBirth":"1985-10-25","drugs":false,"firstName":"John","height":180,"lastName":"Dode","other":"I like to swim","physicalActivity":"moderate","sex":"male","smoke":false,"weight":80},"ip":"::1","method":"POST","route":"/api/profile","timestamp":"2023-07-21T21:30:19.372Z"}}
+{"level":"info","message":{"body":{"age":23,"alcohol":true,"dateOfBirth":"1985-10-25","drugs":false,"firstName":"Isma","height":185,"lastName":"Dode","other":"I like to swim","physicalActivity":"moderate","sex":"male","smoke":false,"weight":80},"ip":"::1","method":"POST","route":"/api/profile","timestamp":"2023-07-21T21:31:03.324Z"}}
+{"level":"info","message":{"ip":"::1","method":"GET","route":"/api/me","timestamp":"2023-07-21T21:31:14.847Z"}}
+{"level":"info","message":{"ip":"::1","method":"GET","route":"/api/me","timestamp":"2023-07-21T21:31:34.555Z"}}
+{"level":"info","message":{"ip":"::1","method":"GET","route":"/api/me","timestamp":"2023-07-21T21:32:18.442Z"}}
+{"level":"info","message":{"body":{"email":"test@examplee6.com","password":"testpassword"},"ip":"::1","method":"POST","route":"/api/login","timestamp":"2023-07-21T21:33:35.671Z"}}
+{"level":"info","message":{"ip":"::1","method":"GET","route":"/api/me","timestamp":"2023-07-21T21:33:40.941Z"}}
+{"level":"info","message":{"body":{"age":23,"alcohol":true,"dateOfBirth":"1985-10-25","drugs":false,"firstName":"Isma","height":185,"lastName":"Dode","other":"I like to swim","physicalActivity":"moderate","sex":"male","smoke":false,"weight":80},"ip":"::1","method":"POST","route":"/api/profile","timestamp":"2023-07-21T21:46:50.812Z"}}
